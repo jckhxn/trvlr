@@ -1,1 +1,1 @@
-Using Mapbox (mapbox-react-gl), React, MongoDB.q
+Using Mapbox (mapbox-react-gl), React, MongoDB.
